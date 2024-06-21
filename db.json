@@ -1,0 +1,10 @@
+{
+  "produtos": [
+    {
+      "id": "1234",
+      "nome": "Jabuticaba",
+      "imagem": "https://cdn.awsli.com.br/600x450/18/18885/produto/1972603/92ba3c993f.jpg",
+      "preco": 25.31
+    }
+  ]
+}
